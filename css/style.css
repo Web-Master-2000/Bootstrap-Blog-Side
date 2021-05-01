@@ -1,0 +1,24 @@
+
+/*  
+ Theme Name: Bootstrap Blog Theme
+Theme URI: https:www.masterweb2000.com
+Author:MasterWeb2000 Team Mert Ergüden
+Author URI: https:www.masterweb2000.com
+Description: Bootstrap Blog Theme for using any website by MasterWeb2000 Team
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text: mert furkan erguden
+*/
+
+
+
+
+#mainNav .navbar-nav .nav-item .nav-link {
+    color: #fff
+}
+
+#mainNav .navbar-nav .nav-item .nav-link:hover {
+    text-decoration: underline;
+    transition: all .8s;
+}
